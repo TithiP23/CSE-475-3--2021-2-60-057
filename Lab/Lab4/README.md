@@ -1,7 +1,7 @@
 
 # Underwater Plastic Pollution Detection - Lab Report
 
-This repository contains the necessary files and code for detecting underwater plastic pollution using the YOLOv (You Only Look Once) object detection framework. The focus is on identifying plastic waste in underwater images and analyzing the model’s performance.
+This repository contains the necessary files and code for detecting underwater plastic pollution using the YOLOv object detection framework. The focus is on identifying plastic waste in underwater images and analyzing the model’s performance.
 
 ## Files in the Repository
 
