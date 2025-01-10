@@ -5,10 +5,10 @@ This repository contains the necessary files and code for detecting underwater p
 
 ## Files in the Repository
 
-1. **Underwater_Plastic_Pollution_Lab_Report.pdf**  
+1. **Underwater Plastic Pollution Detection Using YOLOv.pdf**  
    A comprehensive report detailing the project's objectives, methodology, results, and conclusions. The report offers insights into the application of YOLOv for underwater plastic detection and its evaluation metrics.
 
-2. **Underwater_Plastic_Pollution_Detection.ipynb**  
+2. **Underwater plastic pollution detection using yolov.ipynb**  
    A Jupyter Notebook containing Python code for:  
    - Data loading and preprocessing  
    - Training and evaluating the YOLOv model  
